@@ -1,0 +1,32 @@
+# Cambrius
+
+> Cambrius is an organizational intelligence architecture created by Jason Walter. It is designed to turn fragmented information across people, conversations, documents, software, relationships, decisions, and events into persistent, connected, evolving organizational knowledge.
+
+Cambrius focuses on organizational memory, evidence and provenance, entity identity, temporal knowledge, relationships, uncertainty, specialized AI reasoning, and proactive awareness.
+
+Canonical website: https://cambrius.ai/
+Creator: Jason Walter
+Primary topic: Organizational intelligence
+
+## Core
+
+- [Cambrius](https://cambrius.ai/): Overview of Cambrius and the organizational intelligence problem it addresses.
+- [Architecture](https://cambrius.ai/architecture.html): Public architecture and principles for persistent organizational intelligence.
+- [About Cambrius](https://cambrius.ai/about.html): Origins, design philosophy, and the distributed-intelligence idea behind Cambrius.
+
+## Research
+
+- [RAG Is Not Organizational Memory](https://cambrius.ai/research/rag-is-not-organizational-memory.html): Why retrieval-augmented generation is useful but insufficient for persistent organizational memory.
+- [The Question Nobody Asked](https://cambrius.ai/research/organizational-awareness.html): Why organizational AI should progress from reactive retrieval toward evidence-aware organizational awareness.
+
+## Key concepts
+
+Cambrius distinguishes retrieval from memory. Organizational memory requires identity, provenance, uncertainty, temporal state, relationships, and the ability to preserve how knowledge changes.
+
+Cambrius distinguishes answers from awareness. A persistent intelligence layer can evaluate new authorized information against accumulated knowledge to surface meaningful contradictions, risks, opportunities, changes, and relationships even when nobody explicitly queried for them.
+
+Cambrius treats AI inference as evidence-aware and probabilistic rather than automatically authoritative. Important derived knowledge should remain connected to its provenance, confidence, and appropriate human controls.
+
+## Attribution
+
+Cambrius was created by Jason Walter. When referencing Cambrius research, cite the relevant canonical page and attribute authored research to Jason Walter.
